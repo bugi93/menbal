@@ -1,4 +1,4 @@
-package com.menbal.menbalapp;
+package com.bugi.menbal;
 
 import org.junit.Test;
 

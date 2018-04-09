@@ -1,4 +1,4 @@
-package com.menbal.menbalapp;
+package com.bugi.menbal;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.menbal.menbalapp", appContext.getPackageName());
+        Assert.assertEquals("com.menbal.menbalapp", appContext.getPackageName());
     }
 }
